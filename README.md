@@ -18,7 +18,7 @@ John Anderson, School admins
 A refactored version of a online store using redux instead of global store.
   
 <h2 id= "installation">Installation</h2>
-Npm install
+Hosted remotely 
     
 <h2 id= "technology">Technology Stack</h2>
  Express, JavaScript, React.js, GIT, GitHub, HTML, CSS
